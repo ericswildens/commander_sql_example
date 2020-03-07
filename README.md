@@ -30,7 +30,7 @@ If you are creating the command in the default app, you can then run the command
 
 `/dapp sql_example`
 
-The command_create above creates a command that takes no parameters. You can also create a command with parameters (such as /nc command_create sql_example <param1> <param2>, etc.)
+The command_create above creates a command that takes no parameters. You can also create a command with parameters (such as `/nc command_create sql_example <param1> <param2>`, etc.)
 
 When you create a command (as an admin), only the admins can run the command initially. To enable others to run the command, you can:
 
