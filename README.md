@@ -1,6 +1,6 @@
 # commander_sql_example
 
-The sql_example.js is a Nimbella Commander command source code example to output the results of a MySQL database query
+The sql_example.js is a Nimbella Commander command source code example that output the results of a MySQL database query
 
 To get this running, you will need to modify this:
 
