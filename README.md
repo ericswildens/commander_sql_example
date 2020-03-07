@@ -15,7 +15,7 @@ To get this running, you will need to modify this:
   
 to contain the MySQL hostname, MySQL user, MySQL database password and MySQL database to execute the query on.
 
-The database password should actually be stored as a secret in Commander. See the source code formore information.
+The database password should actually be stored as a secret in Commander. See the source code for more information.
 
 And you'll need to modify the SQL query:
 
