@@ -39,7 +39,7 @@ When you create a command (as an admin), only the admins can run the command ini
 
 `/nc command_runners sql_example + @User1 + @User2`
 
-if you just want to allow evrryone in the workspace to run the code, you can
+if you just want to allow everyone in the workspace to run the code, you can
 
 `/nc command_runners sql_example + anyone`
 
