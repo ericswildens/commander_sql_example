@@ -4,7 +4,8 @@ The sql_example.js is a Nimbella Commander command source code example that outp
 
 To get this running, you will need to modify this:
 
-```let dbConfig =  {
+```
+  let dbConfig =  {
     "host": "HOST_HERE_FOR_EXAMPLE_xyz.us-east-1.rds.amazonaws.com",
     "user": "DATABASE_USER_HERE",
     "password": "DATABASE_PASSWORD_HERE",
